@@ -1,6 +1,15 @@
-# Vuetify Reference Application
-# Based on series of Vuetify videos on Youtube at:  
-# Code repository of the author (The Net Ninja) at:  https://github.com/iamshaunjp/vuetify-playlist/
+
+# Demonstration of an Event Hub in Vue.js
+
+Use an independent event hub to have deeply nested child components emit events to ancestors; or any component in the system.
+
+## References:
+* https://vuejs.org/v2/guide/migration.html#dispatch-and-broadcast-replaced
+* https://alligator.io/vuejs/global-event-bus/
+
+
+
+
 
 
 ## Project setup
@@ -28,5 +37,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
